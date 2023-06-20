@@ -1,0 +1,2 @@
+use("intro_store")
+db.products.find()

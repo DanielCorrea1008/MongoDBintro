@@ -1,0 +1,5 @@
+use("sample_training")
+
+db.zips.find({ city: "CLEVELAND" })
+// 2369 => 3369 cambio el numero de la primera población
+// 1244 => 2244

@@ -1,0 +1,28 @@
+[
+  {
+      "name": "id",
+      "type": "STRING",
+      "mode": "NULLABLE"
+  },
+  {
+      "name": "first_name",
+      "type": "STRING",
+      "mode": "NULLABLE"
+  },
+  {
+      "name": "last_name",
+      "type": "STRING",
+      "mode": "NULLABLE"
+  },
+  {
+      "name": "dob",
+      "type": "DATE",
+      "mode": "NULLABLE"
+  },
+  {
+      "name": "address",
+      "type": "JSON",
+      "mode": "NULLABLE"
+  }
+]
+
